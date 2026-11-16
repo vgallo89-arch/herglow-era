@@ -1,0 +1,13 @@
+HERGLOW ERA 2.0 - ANTEPRIMA COLORATA
+
+1. Estrai tutto lo ZIP in una cartella.
+2. Apri index.html nel browser.
+3. Usa GLOW e RESTART per controllare le pagine.
+
+Le immagini e i testi provengono dal progetto ZIP caricato.
+Questa è una revisione dei colori; non è una copia esatta del sito chatgpt.site.
+Il sito online non è stato modificato.
+Per modificare colori e layout: style.css.
+Per modificare testi e collegamenti: index.html, glow.html, restart.html.
+
+Aggiornamento RESTART: cinque FAQ apribili e campo domanda con pulsante WhatsApp. Nessun messaggio viene inviato automaticamente.
